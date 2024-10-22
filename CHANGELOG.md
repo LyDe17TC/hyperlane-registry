@@ -1,5 +1,28 @@
 # @hyperlane-xyz/registry
 
+## 5.0.0
+
+### Major Changes
+
+- 76e4aab: replace arbitrum-cheesechain usdc route
+
+### Minor Changes
+
+- 6d61a4a: Add token metadata for TIA and stTIA
+- 5e020e7: Add amphrETH warp route
+- 38e5c37: feat: add opBNB Testnet
+- c3d00a5: feat: add Canto Testnet, Fraxtal Testnet, Lisk Sepolia Testnet
+- bf522c3: add Blast Sepolia Testnet
+- d006d5c: feat: add Boba BNB
+- 59bb360: add Harmony testnet
+- 69e214b: feat: add Boba Eth Mainnet
+- 07eaad9: feat: add Boba BNB Testnet
+
+### Patch Changes
+
+- b21b785: chore(deps): bump secp256k1 from 4.0.3 to 4.0.4
+- c2cdaaf: Redeploy amphrETH route
+
 ## 4.10.0
 
 ### Minor Changes
